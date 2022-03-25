@@ -349,7 +349,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             }, {
                                 "rows": [{
                                     "title": "Owner bot",
-                                    "description": "pemilik R-Txzy",
+                                    "description": "pemilik JO•BOTZ",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "Donasi",
