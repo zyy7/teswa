@@ -9,6 +9,7 @@ BIG THANKS TO
 • AlyaaXzy 
 • BOTCAHX
 • Zeks
+• ZyyXd
 • Penyedia Layanan API
 • Orang-orang yang Berdonasi
 `.trim(), watermark, 'Back', '.menu')
